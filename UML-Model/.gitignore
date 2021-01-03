@@ -1,0 +1,10 @@
+# Entrprise Architect model Jet File
+*.eap
+*.eapx
+*.feap
+
+# Enterprise Architect exports/exchange
+*.xmi
+
+# Microsoft Jet for EA temp files
+*.~eap
